@@ -40,7 +40,7 @@ the list. The next pointer for the last node in the list will be set to nullptr.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
