@@ -65,6 +65,6 @@ See the [open issues](https://github.com/vmthanh-bi/Single-Linked-List/issues) f
 
 Tony Vu - [@vmthanh.bi](https://github.com/vmthanh-bi) - vmthanh.bi@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/vmthanh-bi/Single-Linked-List](https://github.com/vmthanh-bi/Single-Linked-List)
 
 <!-- MARKDOWN LINKS & IMAGES -->
